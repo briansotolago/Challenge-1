@@ -14,7 +14,7 @@ This project is a code refactor of the Horiseon website to improve accessibility
 - Improved the efficiency and maintainability of the CSS by removing duplicate and unnecessary styles.git
 
 ## Screenshot
-![alt text](./Develop/assets/images/sscss.png)
+![alt text](./assets/images/sscss.png)
 **Repo:**
 
 [Github Repo](https://github.com/briansotolago/Challenge-1)
