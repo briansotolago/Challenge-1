@@ -12,3 +12,13 @@ This project is a code refactor of the Horiseon website to improve accessibility
 - Added a more concise and descriptive `<title>` element.
 - Consolidated and organized CSS to follow the semantic structure of the HTML.
 - Improved the efficiency and maintainability of the CSS by removing duplicate and unnecessary styles.git
+
+## Screenshot
+![alt text](./Develop/assets/images/sscss.png)
+**Repo:**
+
+[Github Repo](https://github.com/briansotolago/Challenge-1)
+
+**Link of the web Page:**
+
+[Github Page](https://briansotolago.github.io/Challenge-1/)
